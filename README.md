@@ -1,21 +1,93 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hasaan</h1>
-<h3 align="center">A passionate Full stack React Native developer from Pakistan</h3>
-
-- 🔭 I’m currently working on **Ai Powered Diet Planner & Recipe generator**
-
-- 👯 I’d Done Fyp full stack on react native [Rabbit a social media platform](https://expo.dev/artifacts/eas/h9FM73KVkis2e5DycqhXyL.apk)
-
-- 🤝 I’d build full stack projects on react native i.e ; **AI Powered Diet Planner and Recipe generator**
-
-- 📫 How to reach me **muhammadhasaanwork@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-hasaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hasaan" height="30" width="40" /></a>
-<a href="https://instagram.com/im_hasaan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_hasaan_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/logo.svg" alt="GitHub Profile README Generator" width="200" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I’m Muhammad Hasaan</h1>
+<h3 align="center">Full‑Stack React Native Developer & Supabase Enthusiast</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhasaanwaseem&show_icons=true&locale=en&layout=compact" alt="muhammadhasaanwaseem" /></p>
+---
+
+## 🚀 About Me
+- 🔭 I’m currently building **AI‑Powered Diet Planner & Recipe Generator** with React Native + Supabase.
+- 💡 My Final Year Project: [Rabbit](https://expo.dev/artifacts/eas/h9FM73KVkis2e5DycqhXyL.apk)  
+  A context‑aware social media app featuring spoiler‑blur, timed unlocks, and Supabase backend.
+- 🛠️ Passionate about:  
+  - **React Native** for cross‑platform mobile apps  
+  - **Supabase** as open‑source Firebase alternative (Auth, Database, Storage)  
+  - API design, real‑time features & media handling  
+
+---
+
+## 🔧 Tech Stack
+
+<p align="left">
+  <!-- React & RN -->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
+  </a>
+
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/supabase/supabase/master/logo/supabase-icon.svg" alt="Supabase" width="40" height="40" />
+  </a>
+
+  <!-- Backend & DB -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+
+  <!-- Languages -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### AI‑Powered Diet Planner & Recipe Generator
+> A mobile app that suggests personalized meal plans and recipes using AI, built with React Native and Supabase.
+
+- **Frontend:** React Native, Tailwind CSS  
+- **Backend:** Supabase (Auth, Postgres, Storage), Node.js  
+- **Features:** User profiles, real‑time recipe feed, media uploads with timed release
+
+---
+
+### Rabbit – Contextual Social Media (FYP)
+> A time‑capsule social network featuring spoiler‑blur, scheduled unlocks, and privacy by context.
+
+- **Frontend:** React Native, Expo  
+- **Backend:** Supabase (Realtime, Storage)  
+- **Highlights:**  
+  - 🔒 Locked media (images/videos) with manual duration  
+  - ⏰ Premiere posts: schedule unlock times  
+  - 💬 Likes, comments, shares, delete  
+
+---
+
+## 📫 Get in Touch
+
+- 📧 **Email:** muhammadhasaanwork@gmail.com  
+- 💼 **LinkedIn:** [muhammad-hasaan](https://linkedin.com/in/muhammad-hasaan)  
+- 📸 **Instagram:** [@im_hasaan_](https://instagram.com/im_hasaan_)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhasaanwaseem&show_icons=true&theme=radical" alt="Muhammad's GitHub Stats" />
+</p>
