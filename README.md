@@ -3,6 +3,7 @@
 
 ---
 
+
 ### 🚀 Projects I'm Working On
 
 - 🔭 **Currently Building:** AI-Powered Diet Planner & Recipe Generator  
@@ -10,6 +11,15 @@
 - 🤝 **Other Full Stack Projects:** AI-Powered Diet Planner & Recipe Generator
 
 ---
+<h3>
+  I’m a versatile and passionate Full-Stack Developer with a strong focus on mobile development (React Native & iOS) and modern web technologies. With hands-on experience across the entire development lifecycle, I specialize in building seamless, scalable, and user-centric applications.
+</h3>
+
+<h3>
+  From architecting robust backend systems to crafting intuitive front-end interfaces, I thrive on turning complex ideas into practical solutions. Whether it’s a mobile app, web platform, or complete product ecosystem — I’m all about clean code, performance, and innovation.
+</h3>
+
+------
 
 ### 📫 Let's Connect
 
